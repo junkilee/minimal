@@ -195,6 +195,7 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+  text-align: justify;
 }
 
 small {
