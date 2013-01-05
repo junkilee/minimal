@@ -101,10 +101,13 @@ th {
 
 img {
   max-width:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header {
-  width:270px;
+  width:320px;
   float:left;
   position:fixed;
 }
@@ -192,7 +195,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:550px;
   float:right;
   padding-bottom:50px;
   text-align: justify;
