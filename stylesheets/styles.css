@@ -1,11 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,400,700);
 @import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
-  font-weight:300;
+  font:16px/1.8 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#666;
+  font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,6 +23,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  font-weight:700;
 }
 
 h2 {
@@ -69,7 +70,7 @@ blockquote {
 code, pre {
   font-family:Inconsolata, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
-  font-size:12px;
+  font-size:14px;
 }
 
 pre {
@@ -196,7 +197,7 @@ header ul a strong {
 }
 
 section {
-  width:550px;
+  width:600px;
   float:right;
   padding-bottom:50px;
   text-align: justify;
